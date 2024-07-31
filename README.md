@@ -2,7 +2,7 @@
 
 Flutter ile geliştirilmiş, SharedPreferences kullanarak yerel depolama sağlayan basit ve modern bir Todo Uygulaması.
 
-![Todo Uygulaması Ekran Görüntüsü](screenshot.png)
+![Todo Uygulaması Ekran Görüntüsü](https://raw.githubusercontent.com/mesubasi/todo_app_oua/main/resimler/Resim.png?token=GHSAT0AAAAAACQ6ZK5TO5DTMRM3HR7UWESIZVKPFGA)
 
 ## Özellikler
 
