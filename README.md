@@ -37,7 +37,7 @@ Bu projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izl
    flutter run
    ```
 
-Katkıda Bulunanlar
--Muhammed Emin Subaşı - Proje sahibi
--Pınar Korkmaz - Scrum Master
--Mevlüt Eren Topal - Developer
+## Katkıda Bulunanlar
+* Muhammed Emin Subaşı - Proje sahibi
+* Pınar Korkmaz - Scrum Master
+* Mevlüt Eren Topal - Developer
