@@ -1,16 +1,29 @@
-# todo_app
+# Todo Uygulaması
 
-A new Flutter project.
+Flutter ile geliştirilmiş, SharedPreferences kullanarak yerel depolama sağlayan basit ve modern bir Todo Uygulaması.
 
-## Getting Started
+![Todo Uygulaması Ekran Görüntüsü](screenshot.png)
 
-This project is a starting point for a Flutter application.
+## Özellikler
 
-A few resources to get you started if this is your first Flutter project:
+- Yeni görevler ekleme
+- Görevleri tamamlanmış olarak işaretleme
+- Görevleri silme
+- SharedPreferences kullanarak kalıcı depolama
+- Google Fonts ile modern ve kullanıcı dostu arayüz
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Başlarken
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Bu projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyin.
+
+### Gereksinimler
+
+- Flutter SDK: [Flutter Kurulumu](https://flutter.dev/docs/get-started/install)
+- Uygun bir IDE: [VS Code](https://code.visualstudio.com/) veya [Android Studio](https://developer.android.com/studio)
+
+### Kurulum
+
+1. Depoyu klonlayın
+   ```sh
+   git clone https://github.com/kullaniciadi/todo_uygulamasi.git
+   ```
