@@ -25,12 +25,19 @@ Bu projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izl
 
 1. Depoyu klonlayın
    ```sh
-   git clone https://github.com/kullaniciadi/todo_uygulamasi.git
+   git clone https://github.com/mesubasi/todo_app_oua.git
+   ```
+2. Gerekli bağımlılıkları yükleyin
+   ```sh
+   cd todo_app_oua
+   flutter pub get
+   ```
+3. Uygulamayı çalıştırın
+   ```sh
+   flutter run
    ```
 
-2.Gerekli bağımlılıkları yükleyin
-
-```sh
-cd todo_uygulamasi
-flutter pub get
-```
+Katkıda Bulunanlar
+-Muhammed Emin Subaşı - Proje sahibi
+-Pınar Korkmaz - Scrum Master
+-Mevlüt Eren Topal - Developer
