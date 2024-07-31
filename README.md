@@ -27,3 +27,10 @@ Bu projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izl
    ```sh
    git clone https://github.com/kullaniciadi/todo_uygulamasi.git
    ```
+
+2.Gerekli bağımlılıkları yükleyin
+
+```sh
+cd todo_uygulamasi
+flutter pub get
+```
